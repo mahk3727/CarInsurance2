@@ -1,0 +1,6 @@
+﻿Build started at 4:51 PM...
+1>------ Build started: Project: CarInsurance2, Configuration: Debug Any CPU ------
+1>C:\Users\Abdul Haq\Desktop\CarInsurance2\CarInsurance2\Controllers\CoverageType.cs(5,39,5,43): warning CS0649: Field 'CoverageType.Full' is never assigned to, and will always have its default value false
+1>  CarInsurance2 -> C:\Users\Abdul Haq\Desktop\CarInsurance2\CarInsurance2\bin\CarInsurance2.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 4:51 PM and took 01.273 seconds ==========
